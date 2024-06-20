@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HimanshuGautam7607
 - 👀 I’m interested in Science & Technology
 - 🌱 I’m currently learning Data Analysis & Machine Learning
-- 📫 How to reach me:Feel free to connect with me via email at hgautam7607@gmail.com.
-- 😄 Pronouns:He/Him
+- 📫 Contact me: hgautam7607@gmail.com.
+  
   
 
 <!---
